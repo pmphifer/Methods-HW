@@ -1,0 +1,7 @@
+C:\Users\pauli\source\repos\Week4Homework\Week4Homework\bin\Debug\Week4Homework.exe.config
+C:\Users\pauli\source\repos\Week4Homework\Week4Homework\bin\Debug\Week4Homework.exe
+C:\Users\pauli\source\repos\Week4Homework\Week4Homework\bin\Debug\Week4Homework.pdb
+C:\Users\pauli\source\repos\Week4Homework\Week4Homework\obj\Debug\Week4Homework.csprojAssemblyReference.cache
+C:\Users\pauli\source\repos\Week4Homework\Week4Homework\obj\Debug\Week4Homework.csproj.CoreCompileInputs.cache
+C:\Users\pauli\source\repos\Week4Homework\Week4Homework\obj\Debug\Week4Homework.exe
+C:\Users\pauli\source\repos\Week4Homework\Week4Homework\obj\Debug\Week4Homework.pdb
